@@ -1,7 +1,12 @@
 Empezamos a crear la rama 1 
 Ahora empezamos a modificar la rama 1
+<<<<<<< HEAD
 <<<<<<< master
 Creación de una segunda rama para hacer pruebas y que no comprometa la rama principal de desarrollo
 =======
 Sigo añadiendo codigo a la rama 1 que se que va a funcionar
 >>>>>>> Añadida funcionalidad correcta
+=======
+Creación de una segunda rama para hacer pruebas y que no comprometa la rama principal de desarrollo
+Sigo añadiendo codigo a la rama 1 que se que va a funcionar
+>>>>>>> Dev1
